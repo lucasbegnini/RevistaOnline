@@ -1,0 +1,17 @@
+/*
+ * style.css
+ */
+body {
+  padding-top: 100px;
+  text-align: center;
+ 
+}
+
+img{
+     height: 10%;
+	
+}
+
+.revista {
+ background-color: #F5F5F5 !important;
+}
